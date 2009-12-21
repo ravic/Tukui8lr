@@ -536,7 +536,7 @@ local function rABS_showhiderightbar(alpha)
   end
 end
 
-	if rightbars_on_mouseover == 1 then
+	if rightbars_on_mouseover == true then
 		MultiBarLeft:SetAlpha(0)
 		MultiBarRight:SetAlpha(0)
 		MultiBarBottomRight:SetAlpha(0)
