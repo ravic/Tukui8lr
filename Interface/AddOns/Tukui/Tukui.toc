@@ -1,0 +1,61 @@
+## Interface: 30300
+## Author: Tukz
+## Version: 8.12
+## Title: |cffC495DDTukui|r
+## Notes: UI of awesomeness! Lower reso version.
+## SavedVariables: tCooldownTracker_Saved
+## X-oUF: oUF
+
+mods\translate.lua
+tukui.config.lua
+mods\!tukui.lua
+tukui.aurawatch.lua
+mods\combatfont.lua
+mods\nameplates.lua
+mods\bag.core.lua
+mods\bag.helpers.lua
+mods\bag.handlers.lua
+mods\keys\basic.lua
+mods\keys\tooltip.lua
+mods\plugins\bagbar.lua
+mods\plugins\databroker.lua
+mods\plugins\money.lua
+mods\plugins\purchase.lua
+mods\plugins\space.lua
+mods\bag.config.lua
+mods\bag.layout.lua
+mods\error.lua
+mods\cooldown.lua
+mods\oUF.xml
+mods\plugins\smooth.lua
+mods\plugins\aurawatch.lua
+mods\plugins\debuffhighlight.lua
+mods\plugins\experience.lua
+mods\plugins\moveframe.lua
+mods\plugins\reputation.lua
+mods\plugins\threat.lua
+mods\tags.lua
+mods\unitframe.lua
+mods\weaksoul.lua
+mods\buttonskin.lua
+mods\lootroll.lua
+mods\actionbar.lua
+mods\autoacceptinv.lua
+mods\autoinvite.lua
+mods\autoinvite.xml
+mods\autorepair.lua
+mods\selljunk.lua
+mods\buff.lua
+mods\chat.lua
+mods\combo.lua
+mods\combo.xml
+mods\enemytracker.lua
+mods\innerfire.lua
+mods\loot.lua
+mods\symbol.lua
+mods\minimap.lua
+mods\panels.lua
+mods\tell.lua
+mods\tell.xml
+mods\tooltip.lua
+mods\focus.key.lua
